@@ -10,3 +10,5 @@ G:\Data-Security-Project\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.c
 G:\Data-Security-Project\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
 G:\Data-Security-Project\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
 G:\Data-Security-Project\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\engy medhat\source\repos\Data-Security-Project\engymedhat\Data-Security-Project\startupcode\securitylibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\engy medhat\source\repos\Data-Security-Project\engymedhat\Data-Security-Project\startupcode\securitylibrary\obj\Debug\SecurityLibrary.pdb
